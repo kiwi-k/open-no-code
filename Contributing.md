@@ -1,6 +1,10 @@
 # Contributing to Open No Code
 
 First off, thank you for considering contributing to Open No Code! It's people like you that make this community vibrant and resourceful. This document provides guidelines and steps for contributing.
+You can contribute in the forms of
+1. Adding more resources to this file.
+2. Adding Guides for different no-code tools under guides/
+3. Adding your project for showcase under projects/
 
 ## Table of Contents
 
@@ -18,7 +22,7 @@ First off, thank you for considering contributing to Open No Code! It's people l
 
 By participating in this project, you are expected to uphold our [Code of Conduct](CODE_OF_CONDUCT.md).
 
-## How Can I Contribute?
+## Other ways to contribute?
 
 ### Reporting Bugs
 
